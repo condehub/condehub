@@ -47,7 +47,7 @@ Minha jornada na tecnologia transita desde a criação de interfaces responsivas
 
 ### 📈 Aprendizado Contínuo
 
-Acredito no autodidatismo fundamentado. Utilizo a curadoria de informações para focar nos fundamentos da ciência da computação através de livros, documentações oficiais e artigos acadêmicos. Atualmente, estou expandindo meus conhecimentos sobre o impacto da Inteligência Artificial na engenharia de software e na automatização de projetos agrícolas voltados para o Norte do Brasil.
+Acredito no autodidatismo fundamentado. Utilizo a curadoria de informações para focar nos fundamentos da ciência da computação através de livros, documentações oficiais e artigos acadêmicos. Atualmente, estou expandindo meus conhecimentos sobre o impacto da Inteligência Artificial na engenharia de software e Cibersegurança no contexto Web e API. Acima de tudo priorizo frequentemente o reforço dos fundamentos atemporais, como estrutura de dados, algoritmos, boas práticas e arquitetura.
 
 ---
 
