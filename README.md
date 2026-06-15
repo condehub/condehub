@@ -1,6 +1,6 @@
 # Olá, eu sou João Victor Conde! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, arquitetura de software e segurança, baseado em **Boa Vista / Roraima**. Atualmente, atuo na **Pigz - Orange Labs** e sou estudante do curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de Roraima (IFRR)**.
+Sou um desenvolvedor apaixonado por tecnologia, arquitetura de software e segurança, sitiado em **Boa Vista / Roraima**. Atualmente, atuo na **Pigz - Orange Labs** e sou estudante do curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas** pelo **Instituto Federal de Roraima (IFRR)**.
 
 Minha jornada na tecnologia transita desde a criação de interfaces responsivas até a modelagem de bancos de dados relacionais e proteção de redes. Gosto não apenas de codar, mas de entender o *porquê* estamos construindo algo, o que me leva a ter um forte interesse por levantamento de requisitos, gestão de projetos e metodologias modernas de engenharia de software. Movido por desafios globais, tenho como objetivo consolidar uma **carreira internacional**, buscando ativamente oportunidades de intercâmbio e colaboração em projetos internacionais.
 
