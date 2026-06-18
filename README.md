@@ -39,7 +39,8 @@ Minha jornada na tecnologia transita desde a criação de interfaces responsivas
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de João Victor](https://github-readme-stats.vercel.app/api?username=condehub&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de João Victor](https://github-readme-stats.vercel.app/api?username=condehub&orgs=orangelabs&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=condehub&layout=compact&theme=dracula&hide_border=true)
 
