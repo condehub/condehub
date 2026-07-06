@@ -8,7 +8,7 @@ Minha jornada na tecnologia transita desde a criação de interfaces responsivas
 
 ### 💼 O que eu faço
 
-*   💻 **Engenharia de Software:** Desenvolvimento Full-Stack explorando ecossistemas baseados em JavaScript/TypeScript e Java.
+*   💻 **Engenharia de Software:** Desenvolvimento Full-Stack explorando ecossistemas baseados em JavaScript/TypeScript e PHP na Pigz.
 *   🛡️ **Cybersegurança:** Participante ativo em treinamentos e maratonas da área (como o programa Cisco CiberEducação).
 *   📐 **Arquitetura & Gestão:** Foco contínuo no estudo de **Domain-Driven Design (DDD)** para mapeamento de regras de negócio, e **Spec-Driven Development (SDD)** alinhado às novas tendências de IA no fluxo de desenvolvimento.
 *   🚀 **Inovação:** Participante e nomeado no **Hackathon NASA Space Apps Challenge (Outubro de 2025)**, desenvolvendo protótipos com integração de APIs de tempo real.
